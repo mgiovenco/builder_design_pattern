@@ -13,9 +13,9 @@ The telescoping constructor anti-pattern occurs when the increase of object cons
 
 Use the Builder pattern when:
 
-1) The algorith for creating a complex object should be independent of the parts that make up the object and how they're assembled.
+1) The algorithm for creating a complex object should be independent of the parts that make up the object and how they're assembled.
 
-2) The construction process must allow different preresentations for the object that's constructed.
+2) The construction process must allow different presentations for the object that's constructed.
 
 #Problem solved in example
 
